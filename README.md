@@ -1,6 +1,6 @@
 # Da Nang Information Discord Bot 🤖
 
-A feature-rich Discord bot that provides information about places and attractions in Da Nang, Vietnam. The bot uses the Google Places API to fetch real-time information and includes features like place ratings, photos, and interactive menus
+A feature-rich Discord bot that provides information about places and attractions in Da Nang, Vietnam. The bot uses the Google Places API to fetch real-time information and includes features like place ratings, photos, and interactive menus.
 
 ## Features 🌟
 
